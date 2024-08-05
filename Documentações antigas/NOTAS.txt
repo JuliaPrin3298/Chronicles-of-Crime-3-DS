@@ -1,0 +1,42 @@
+NOTAS:
+
+1.	Siglas 
+A sigla, quando mencionada pela primeira vez no texto, deve ser indicada entre parênteses, precedida do nome completo. 
+Exemplo: Centro Estadual de Educação Tecnológica Paula Souza (CEETEPS) 
+
+2.	llustrações 
+Todas as ilustrações devem ter sua identificação na parte superior, precedida da palavra designativa (desenho, esquema, fluxograma, fotografia, gráfico, mapa, organograma, planta, quadro, retrato, figura, imagem, entre outros) seguida de seu número de ordem de ocorrência no texto – Arial 12, espaçamento simples. Na parte inferior deve-se indicar a fonte consultada (obrigatória, mesmo que a ilustração seja produção do próprio autor) Arial 10 – espaçamento simples. Em caso de ilustração adaptada, informe “adaptado de” seguido da citação da fonte. A ilustração deve ser citada no texto e inserida o mais próximo possível do trecho a que se refere. 
+Exemplo:
+
+
+Figura 1 - Representação do ecossistema
+ 
+Fonte: (Ecossist, 2014). 
+
+
+
+3.	Gráfico 
+O gráfico deve ser utilizado de maneira que sua interpretação não necessite de outras explicações. 
+Exemplo: 
+Figura 10 - Gráfico 1 - Frequência de usuário por período Colocar o nome “Figura”, caso o gráfico esteja na lista de ilustrações.
+ 
+Fonte: Do próprio autor, 2014.
+
+4.	Tabelas 
+Forma não discursiva de apresentar informações, nas quais o dado numérico se destaca como informação central. Devem ser citadas no texto, inseridas o mais próximo possível do trecho a que se referem e padronizadas conforme o Instituto Brasileiro de Geografia e Estatística (IBGE). 
+
+CONSIDERAÇÕES FINAIS
+
+
+Avalia e apresenta os resultados obtidos no trabalho e pode sugerir ideias e abordagens novas para serem consideradas em outros trabalhos da área. É a apresentação das respostas à problemática, do tema exposto, ou seja, uma síntese dos resultados aos quais o autor chegou, de uma maneira simples e concisa, sem a inclusão de dados novos.
+
+
+APÊNDICE 
+No apêndice constam documentos elaborados pelo autor com o objetivo de complementar sua argumentação. A paginação deve estar na sequência dos assuntos apresentados no texto principal e sua identificação será feita por letras maiúsculas consecutivas, travessão e respectivos títulos
+
+
+APÊNDICE A - Modelo de Análise e Discussão dos Resultados apresentados em um gráfico 
+APÊNDICE B - Modelo de Questionário com questões abertas
+
+
+Logo após a página de apêndice, o aluno deverá anexar os documentos citados.
